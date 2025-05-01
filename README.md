@@ -35,6 +35,9 @@ Jalankan node server.js dari terminal.
 
 Buka index.html di dua atau lebih tab browser.
 
+![image](https://github.com/user-attachments/assets/f4f2d7c8-0e4c-4002-8885-734ba06a8f88)
+
+
 Kirim pesan → harus muncul real-time di semua tab.
 ![image](https://github.com/user-attachments/assets/0e90f636-0b6d-4e00-afc4-870bc226fcab)
 
